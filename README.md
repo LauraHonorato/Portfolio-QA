@@ -10,6 +10,6 @@ Seja bem-vindo(a) ao meu portfólio de QA! Aqui você encontrará:
 ## 📂 Seções
 
 - [Bug Reports](./bug-reports)
-- [Casos de Teste](./test-cases)
+- [Casos de Teste](./Testcases)
 - [Projetos Práticos](./projetos)
 - 
