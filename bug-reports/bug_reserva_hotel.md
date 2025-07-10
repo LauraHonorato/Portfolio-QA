@@ -1,4 +1,4 @@
-## 🐞 **[BUG] Reserva incorreta para 2 adultos + 2 crianças no site do Hotel X**
+## 🐞 **[BUG] Reserva incorreta para 2 adultos + 2 crianças no site e App Nacional Inn**
 
 ### 🔍 **Descrição do problema**
 Ao tentar realizar uma reserva diretamente pelo site e pelo App da rede Nacional Inn para **2 adultos e 2 crianças pequenas**, o sistema **bloqueia a seleção de apenas um quarto**, alegando que a ocupação excede o limite permitido.
