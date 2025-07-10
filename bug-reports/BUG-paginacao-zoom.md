@@ -26,3 +26,5 @@ Mesmo havendo itens a serem mostrados, e outras páginas (4, 10) funcionarem nor
 ### 💡 Sugestão
 - Ajustar lógica de paginação para recalcular corretamente o total de páginas.  
 - Garantir fallback que mostre a página anterior (ou redirecione ao início) em vez de exibir erro.
+- Incluir testes automatizados de paginação para prevenir regressões futuras.
+
