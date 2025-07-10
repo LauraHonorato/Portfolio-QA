@@ -34,7 +34,7 @@ Verificar que todas as páginas de resultados na categoria **Bebês > Balanço &
 ---
 
 ### 🚀 Passos para Execução
-1. Acessar `https://www.zoom.com.br/categoria/bebes/banho/baby-bouncer`
+1. Acessar `(https://www.zoom.com.br/baby-bouncer-e-cadeira-de-balanco)`
 2. Confirmar total de resultados e número de páginas.
 3. Navegar sequencialmente pelas páginas de 1 até n.
 4. Verificar se alguma página exibe mensagem de erro.
@@ -50,6 +50,7 @@ Verificar que todas as páginas de resultados na categoria **Bebês > Balanço &
 
 ### 🚩 Status
 **Falha**: Páginas 3, 8, 9 (e outras) exibem erro indevido, indicando falha de paginação.
+As páginas não possuem um número N definido para retorno dos resultados,em algumas páginas, por exemplo a página 4, o retorno é somente 1 resultado, mesmo tendo a página 5 em sequência, enquanto a página 7 retorna mais de 7 resultados. 
 
 ---
 
